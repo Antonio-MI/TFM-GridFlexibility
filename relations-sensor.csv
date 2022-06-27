@@ -1,0 +1,91 @@
+ID;desc;block;room
+335544455;Sensor temperatura sala 4.2;A;B1.4.009
+335544458;Sensor temperatura sala 4.3;A;B1.4.008
+335544461;Sensor temperatura sala 4.4;A;B1.4.007
+335544472;Sensor temperatura sala 4.11;A;B1.4.004
+335544479;Sensor temperatura sala 4.6;A;B1.4.013
+335544488;Sensor temperatura sala 4.7;A;B1.4.014
+335544491;Sensor temperatura sala 4.8;A;B1.4.015
+335544499;Sensor temperatura 1 sala 4.5;A;B1.4.006
+335544506;Sensor temperatura sala 4.9;A;B1.4.016
+335544517;Sensor temperatura sala 4.10;A;B1.4.017
+335544522;Sensor temperatura sala 3.1;A;B1.3.010
+335544529;Sensor temperatura sala 3.2;A;B1.3.009
+335544532;Sensor temperatura sala 3.6;A;B1.3.014
+335544542;Sensor temperatura sala 3.3;A;B1.3.008
+335544547;Sensor temperatura sala 3.4;A;B1.3.007
+335544554;Sensor temperatura sala 3.5;A;B1.3.006
+335544557;Sensor temperatura sala 3.10;A;B1.3.018.3
+335544563;Sensor temperatura sala 3.11;A;B1.3.018.2
+335544569;Sensor temperatura sala 3.12;A;B1.3.018.1
+335544575;Sensor temperatura sala 3.13;A;B1.3.004
+335544605;Sensor temperatura sala 2.1;A;B1.2.008
+335544613;Sensor temperatura sala 2.7;A;B1.2.026
+335544628;Sensor temperatura sala 2.3;A;B1.2.007
+335544639;Sensor temperatura sala 2.4;A;B1.2.006
+335544648;Sensor temperatura sala 2.9;A;B1.2.027
+335544655;Sensor temperatura sala 2.10;A;B1.2.027.2
+335544660;Sensor temperatura sala 2.14;A;B1.2.004
+335544672;Sensor temperatura sala 2.13;A;B1.2.028
+335544685;Sensor temperatura sala 2.15;B;B1.2.020
+335544692;Sensor temperatura sala 2.16;B;B1.2.013
+335544699;Sensor temperatura sala 2.17;B;B1.2.014
+335544720;Sensor temperatura sala 2.18;B;B1.2.015
+335544721;Sensor temperatura sala 2.19;B;B1.2.016
+335544736;Sensor temperatura sala 1.1;A;B1.1.010
+335544739;Sensor temperatura sala 1.2;A;B1.1.009
+335544747;Sensor temperatura sala 1.6;A;B1.1.023
+335544750;Sensor temperatura sala 1.7;A;B1.1.024
+335544764;Sensor temperatura sala 1.8;A;B1.1.025
+335544770;Sensor temperatura sala 1.11;A;B1.1.005
+335544790;Sensor temperatura sala 1.3;A;B1.1.008
+335544791;Sensor temperatura sala 1.4;A;B1.1.007
+335544792;Sensor temperatura sala 1.5;A;B1.1.006
+335544811;Sensor temperatura sala 1.9;A;B1.1.026
+335544812;Sensor temperatura sala 1.10;A;B1.1.027
+335544823;Sensor temperatura sala 1.15;B;B1.1.021
+335544830;Sensor de temperatura sala 1.16;B;B1.1.014
+335544838;Sensor temperatura sala 1.17;B;B1.1.015
+335544857;Sensor temperatura sala 1.18;B;B1.1.016
+335544858;Sensor temperatura 1 sala 1.19;B;B1.1.017
+335544863;Sensor temperatura sala 1.20;B;B1.1.013
+335544931;Sensor temperatura sala 0.5 (arriba);C;B1.0.026
+335544934;Sensor temperatura sala 0.5 (abajo);C;B1.0.026
+335544941;Sensor temperatura sala 0.4;C;B1.0.025
+335544948;Sensor temperatura sala 0.3;C;B1.0.024
+335544977;Sensor temperatura sala 0.8;B;B1.0.059
+335544979;Sensor temperatura 2 sala 4.5;A;B1.4.006
+335545020;Sensor temperatura 2 sala 1.19;B;B1.1.017
+335545055;Sensor temperatura 1 sala 1.14;B;B1.1.020
+335545056;Sensor temperatura 2 sala 1.14;B;B1.1.020
+335545087;Sensor temperatura sala 2.2;B;B1.2.012
+335545091;Sensor temperatura sala 2.14;B;B1.2.019
+335545128;Sensor digital temperatura 1 sala 1.13;C;B1.1.029
+335545129;Sensor digital temperatura 2 sala 1.13;C;B1.1.029
+335545134;Sensor temperatura sala 4.1;A;B1.4.010
+335547743;B1.1.024 / Sonda temperatura (F0:C4 / EA1-PT100);A;B1.1.024
+335547759;B1.1.024 / Sonda temperatura (F0:BB / EA1-PT100);A;B1.1.024
+335547765;B1.1.025 / Sonda temperatura (F0:C5 / EA1-PT100);A;B1.1.025
+335547778;B1.1.025 / Sonda temperatura (F0:B3 / EA1-PT100);A;B1.1.025
+335547785;B1.1.026 / Sonda temperatura (F0:B8 / EA1-PT100);A;B1.1.026
+335547798;B1.1.026 / Sonda temperatura (F0:BA / EA1-PT100);A;B1.1.026
+335547804;B1.1.027 / Sonda temperatura (F0:B7 / EA1-PT100);A;B1.1.027
+335547817;B1.1.027 / Sonda temperatura (F0:AF / EA1-PT100);A;B1.1.027
+335547856;B1.1.014 / Sonda temperatura (F0:C1 / EA1-PT100);B;B1.1.014
+335547861;B1.1.014 / Sonda temperatura (F0:B2 / EA1-PT100);B;B1.1.014
+335547871;B1.1.015 / Sonda temperatura (F0:AE / EA1-PT100);B;B1.1.015
+335547879;B1.1.015 / Sonda temperatura (F0:B5 / EA1-PT100);B;B1.1.015
+335547886;B1.1.016 / Sonda temperatura (F0:BE / EA1-PT100);B;B1.1.016 
+335547887;B1.1.016 / Sonda temperatura (F0:C0 / EA1-PT100);B;B1.1.016 
+335547901;B1.1.017 / Sonda temperatura (F0:BF / EA1-PT100);B;B1.1.017
+335547902;B1.1.017 / Sonda temperatura (F0:AC / EA1-PT100);B;B1.1.017
+335547903;B1.1.017 / Sonda temperatura (F0:B4 / EA1-PT100);B;B1.1.017
+335547925;B1.2.013 / Sonda temperatura (F0:BD / EA1-PT100);B;B1.2.013
+335547926;B1.2.013 / Sonda temperatura (F0:AD / EA1-PT100);B;B1.2.013
+335547940;B1.2.014 / Sonda temperatura (F0:B6 / EA1-PT100);B;B1.2.014 
+335547950;B1.2.014  / Sonda temperatura (F0:B1 / EA1-PT100);B;B1.2.015
+335547951;B1.2.015 / Sonda temperatura (F0:C3 / EA1-PT100);B;B1.2.015
+335547965;B1.2.016 / Sonda temperatura (F0:BC / EA1-PT100);B;B1.2.016
+335547966;B1.2.016 / Sonda temperatura (F0:B9 / EA1-PT100);B;B1.2.016
+335547967;B1.2.016 / Sonda temperatura (F0:B0 / EA1-PT100);B;B1.2.016
+335548038;B1.2.014 / Sonda temperatura (F0:C2 / EA1-PT100);B;B1.2.014
