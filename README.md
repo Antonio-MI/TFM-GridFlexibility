@@ -18,6 +18,8 @@ Este repostitorio contiene el código fuente para el desarrollo del Trabajo Fin 
 
 - FuncionesCons: Definidas las funciones que usan los modelos de consumo.
 
+- csv con todos los conjuntos de datos. *Algunos tienen que ser descomprimidos.
+
 - PruebasResultados: Código de referencia para hacer las gráficas y tablas que aparecen en la memoria.
 
 - /results: directorio con los csv de los resultados de todas las pruebas.
