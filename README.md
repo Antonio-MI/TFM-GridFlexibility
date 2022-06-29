@@ -18,7 +18,7 @@ Este repostitorio contiene el código fuente para el desarrollo del Trabajo Fin 
 
 - FuncionesCons: Definidas las funciones que usan los modelos de consumo.
 
-- csv con todos los conjuntos de datos. *Algunos tienen que ser descomprimidos para poder ser usados.
+- csv con todos los conjuntos de datos. *Hay ficheros que debido a su tamaño no se pueden compartir. Están disponibles bajo petición al autor. Estos son: data-hvac, data-room10T, data-room10T-all, data-roomA-10T, data-roomB-10T, data-roomC-10T y data-sensor.
 
 - PruebasResultados: Código de referencia para hacer las gráficas y tablas que aparecen en la memoria.
 
@@ -31,5 +31,3 @@ Este repostitorio contiene el código fuente para el desarrollo del Trabajo Fin 
 - /prev: ficheros desechados de intentos previos y csv que finalmente no se han usado.
 
 - /pics: imágenes de las gráficas extraídas.
-
-- Hay ficheros que debido a su tamaño no se pueden compartir. Están disponibles bajo petición al autor. Estos son: data-hvac, data-room10T, data-room10T-all, data-roomA-10T, data-roomB-10T, data-roomC-10T y data-sensor.
