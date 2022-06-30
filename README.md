@@ -26,8 +26,6 @@ Este repostitorio contiene el código fuente para el desarrollo del Trabajo Fin 
 
 - /modelos: directorio con todos los modelos.
 
-- /prev: ficheros desechados de intentos previos y csv que finalmente no se han usado.
-
 - /pics: imágenes de las gráficas extraídas.
 
 - /data: Los datos están disponibles bajo petición al autor. Se dejarán en abierto tras la publicación de los resultados.
